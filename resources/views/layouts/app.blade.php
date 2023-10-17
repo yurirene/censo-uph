@@ -58,7 +58,7 @@
         }
 
         .bg-active {
-            background: #5e72e4;
+            background: #007277;
             color: white !important;
             border-radius: 0 2em 2em 0;
         }
